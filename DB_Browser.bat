@@ -1,0 +1,1 @@
+"DB Browser for SQLite\DB Browser for SQLite.exe" F:\app\sqlite\soneki.db
